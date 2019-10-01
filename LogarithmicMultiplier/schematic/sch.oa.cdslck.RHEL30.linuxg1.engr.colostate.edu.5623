@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sumant24
+HostName                       linuxg1.engr.colostate.edu
+ProcessIdentifier              5623
+ProcessCreationTime_UTC        1540398081
+ProcessCreationTime_Readable   Wed Oct 24 10:21:21 2018 MDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /net/nasstore/students/UNGRAD/UE/sumant24/home/ECE451/ECE_451/LogarithmicMultiplier/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Wed Oct 24 10:21:50 2018 MDT

@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sumant24
+HostName                       linuxg1.engr.colostate.edu
+ProcessIdentifier              2750
+ProcessCreationTime_UTC        1540350215
+ProcessCreationTime_Readable   Tue Oct 23 21:03:35 2018 MDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /net/nasstore/students/UNGRAD/UE/sumant24/home/ECE451/ECE_451/8bitCLA_test/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Oct 24 01:58:45 2018 MDT
